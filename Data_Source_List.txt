@@ -1,0 +1,13 @@
+1. US Census Bureau
+	Ohio Tracts data TIGER shapefiles (2021)
+	Racial Distribution (2020)
+	White Income (2023)
+	Black Income (2023)
+
+
+2. City of Columbus Open Geospatial Data (2023)
+	Corporate Boundary
+	Communities
+	Celebrate One Areas
+	Medical Facilities 
+	
