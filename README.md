@@ -10,4 +10,4 @@ Here's what is found in this repo:
 4. My working geodatabase of edited spatial data.
 5. Analysis tables 
 
-Power BI reports can be viewed [here:] (https://app.powerbi.com/links/VQkbQfhXmi?ctid=a8baedf7-0b20-448e-93c6-b9bff48e2f72&pbi_source=linkShare&bookmarkGuid=1c9d2b11-27df-43bd-9280-8390f16d2596)
+Power BI reports can be viewed [here:](https://app.powerbi.com/links/VQkbQfhXmi?ctid=a8baedf7-0b20-448e-93c6-b9bff48e2f72&pbi_source=linkShare&bookmarkGuid=1c9d2b11-27df-43bd-9280-8390f16d2596)
