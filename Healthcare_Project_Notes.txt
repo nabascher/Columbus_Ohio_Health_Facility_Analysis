@@ -1,0 +1,9 @@
+---------Log of work for Healthcare Analytics Project-----
+
+01/06/2024:
+	- The first page of the report has been finished and published to the Power BI service. 
+	First page is a summary of the number of healthcare facilities within Columbus, Ohio communities.
+	
+	- Today, I downloaded some street centerline data from Columbus, Ohio open data portal. 
+	Also performed some summary within analysis for demographic data within the communities. Working 
+	with the community data is preferable for analysis over using census tracts.   
