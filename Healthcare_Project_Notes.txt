@@ -7,3 +7,7 @@
 	- Today, I downloaded some street centerline data from Columbus, Ohio open data portal. 
 	Also performed some summary within analysis for demographic data within the communities. Working 
 	with the community data is preferable for analysis over using census tracts.   
+
+01/07/2024:
+	- Made some minor updates to the existing page of report such as implementing drilldown. 
+	Exported some new tables to add to PowerBI from ArcGIS for demographic analysis.  
