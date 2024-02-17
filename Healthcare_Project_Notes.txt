@@ -11,3 +11,8 @@
 01/07/2024:
 	- Made some minor updates to the existing page of report such as implementing drilldown. 
 	Exported some new tables to add to PowerBI from ArcGIS for demographic analysis.  
+
+02/17/2024:
+	- Concluded demographics analysis in Power BI. 
+	I scrapped my idea of trying to relate the demographic data with the Communities as the data becomes too diluted.
+	Next, I will begin my network Analysis in ArcGIS Pro, which will hopefully yield more meaningful results. 
