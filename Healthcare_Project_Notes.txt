@@ -16,3 +16,8 @@
 	- Concluded demographics analysis in Power BI. 
 	I scrapped my idea of trying to relate the demographic data with the Communities as the data becomes too diluted.
 	Next, I will begin my network Analysis in ArcGIS Pro, which will hopefully yield more meaningful results. 
+
+03/01/2024:
+	- Ran some network analysis tools in ArcGIS Pro. 
+	Will start forming an outline for further analysis and how to summarize the data before
+	moving into Power BI. 
